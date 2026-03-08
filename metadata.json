@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana Studio",
+  "description": "A high-speed image generation studio powered by Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
